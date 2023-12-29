@@ -5,7 +5,7 @@ st.sidebar.title("File management system")
 #roll nuumber
 #name
 #fees
-st.sisdebar.subheader("Add Student")
+st.sidebar.subheader("Add Student")
 rollnumber=st.sidebar.number_input("Roll Number")
 name=st.sidebar.text_input("Nmae")
 fees=st.sidebar.number_input("Fees")
